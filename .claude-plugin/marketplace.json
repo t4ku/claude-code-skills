@@ -1,0 +1,11 @@
+{
+  "name": "t4ku-skills",
+  "description": "Public Claude Code skills by t4ku",
+  "plugins": [
+    {
+      "name": "add-github-permalinks",
+      "description": "Add GitHub permalinks with fixed SHA/commit references to research documentation",
+      "path": "add-github-permalinks"
+    }
+  ]
+}
